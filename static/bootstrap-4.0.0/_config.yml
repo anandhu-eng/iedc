@@ -36,6 +36,7 @@ exclude:
   - README.md
   - sache.json
   - twbsconfig.yml
+  - docs/
 
 plugins:
   - jekyll-redirect-from
